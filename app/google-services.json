@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "31171161120",
+    "project_id": "audio-video-call---mine",
+    "storage_bucket": "audio-video-call---mine.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31171161120:android:0edaec3316c9876df6e045",
+        "android_client_info": {
+          "package_name": "com.example.audiovideocall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVnHtuVxG6VrhMGScbQ2BZ4swiYKPosmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mp">#FF0066</color>
+    <color name="ms">#FFE74C</color>
+    <color name="off_white">#FDFDFD</color>
+    <color name="light_gray">#C3C3C3</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#FF008000</color>
+    <color name="colorAccent">#FFC107</color>
+</resources>
